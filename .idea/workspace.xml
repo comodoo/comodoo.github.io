@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d7b0ce6-9285-48e9-94e0-c777e51ddf76" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Dockerfile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Dockerfile.base" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_applications/fabric8-maven-plugin.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_applications/grafzahl.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_applications/jgrafzahl.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_applications/ophicleide.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_applications/tensorflow_mnist.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_data/menu.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_examples/amqpstreaming.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_examples/blockchain.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_examples/ceph-source-example.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_examples/pyspark_hdfs_notebook.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_examples/s3-source-example.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_examples/var.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_faqs/how-to-connect-to-cluster.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_faqs/how-to-connect-to-kafka.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_faqs/why-am-i-getting-ioexception.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/analytics.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/copy_button.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/gh_star.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/menu_radanalytics.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_includes/menu_tutorial_application.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_layouts/application.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_layouts/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_layouts/markdown.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/analyzing-blockchain-transaction-graph-with-spark.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/analyzing-endurance-sports-activity-data-with-spark.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/analyzing-log-data-with-apache-spark.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/big-data-and-apache-spark-on-openshift-pt-i.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/big-data-and-apache-spark-on-openshift-pt-ii.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/big-data-in-production-bare-metal-to-openshift.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/building-apache-spark-application-pipelines-for-the-kubernetes-ecosystem.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/building-cloud-native-apache-spark-applications-with-openshift.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/building-machine-learning-algorithms.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/building-my-own-little-world-with-open-data.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/containerized-spark-on-kubernetes.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/containerizing-TensorFlow-Applications-on-OpenShift.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/converging-big-data-and-application-infrastructure.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/converging-insightful-data-led-applications-with-traditional-web-applications.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/diagnosing-open-source-community-health-with-spark.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/fire-in-the-sky.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/from-notebooks-to-cloud-native.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/insightful-apps-with-apache-spark-and-openshift.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/one-pass-data-science.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/optimizing-spark-deployments-for-containers-isolation-safety-and-performance.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/running-apache-spark-natively-on-kubernetes-with-openshift.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/sketching-data-with-t-digest-in-apache-spark.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/smart-scalable-feature-reduction-with-random-forests.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/teaching-apache-spark-clusters-to-manage-their-workers-elastically.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_presentations/the-revolution-will-be-containerized.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_projects/openshift-spark.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_projects/oshinko.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_projects/scorpion-stare.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_projects/silex.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_projects/spark-amqp-connector.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/application_or_example.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/faq.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/Gruntfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/print/paper.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/print/pdf.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/reveal.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/reveal.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/beige.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/black.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/blood.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/league.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/moon.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/night.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/serif.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/simple.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/sky.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/solarized.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/source/beige.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/source/black.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/source/blood.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/source/league.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/source/moon.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/source/night.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/source/serif.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/source/simple.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/source/sky.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/source/solarized.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/source/white.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/template/mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/template/settings.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/template/theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/css/theme/white.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/js/reveal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/css/zenburn.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/font/league-gothic/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/font/league-gothic/league-gothic.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/font/league-gothic/league-gothic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/font/league-gothic/league-gothic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/font/league-gothic/league-gothic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/font/source-sans-pro/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/font/source-sans-pro/source-sans-pro-italic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/font/source-sans-pro/source-sans-pro-italic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/font/source-sans-pro/source-sans-pro-italic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/font/source-sans-pro/source-sans-pro-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/font/source-sans-pro/source-sans-pro-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/font/source-sans-pro/source-sans-pro-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/font/source-sans-pro/source-sans-pro.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/js/classList.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/js/head.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/lib/js/html5shiv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/plugin/highlight/highlight.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/plugin/markdown/example.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/plugin/markdown/example.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/plugin/markdown/markdown.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/plugin/markdown/marked.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/plugin/math/math.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/plugin/multiplex/client.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/plugin/multiplex/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/plugin/multiplex/master.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/plugin/multiplex/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/plugin/notes-server/client.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/plugin/notes-server/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/plugin/notes-server/notes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/plugin/notes/notes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/plugin/notes/notes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/plugin/print-pdf/print-pdf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/plugin/search/search.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/lightning/plugin/zoom-js/zoom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/presentation.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_templates/project.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/application_scenario.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/connector_scenario.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/Gruntfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/print/paper.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/print/pdf.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/reveal.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/reveal.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/beige.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/black.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/blood.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/league.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/moon.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/night.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/serif.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/simple.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/sky.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/solarized.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/source/beige.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/source/black.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/source/blood.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/source/league.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/source/moon.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/source/night.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/source/serif.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/source/simple.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/source/sky.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/source/solarized.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/source/white.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/template/mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/template/settings.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/template/theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/css/theme/white.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/js/reveal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/css/zenburn.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/font/league-gothic/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/font/league-gothic/league-gothic.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/font/league-gothic/league-gothic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/font/league-gothic/league-gothic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/font/league-gothic/league-gothic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/font/source-sans-pro/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/font/source-sans-pro/source-sans-pro-italic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/font/source-sans-pro/source-sans-pro-italic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/font/source-sans-pro/source-sans-pro-italic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/font/source-sans-pro/source-sans-pro-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/font/source-sans-pro/source-sans-pro-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/font/source-sans-pro/source-sans-pro-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/font/source-sans-pro/source-sans-pro.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/js/classList.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/js/head.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/lib/js/html5shiv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/plugin/highlight/highlight.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/plugin/markdown/example.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/plugin/markdown/example.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/plugin/markdown/markdown.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/plugin/markdown/marked.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/plugin/math/math.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/plugin/multiplex/client.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/plugin/multiplex/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/plugin/multiplex/master.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/plugin/multiplex/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/plugin/notes-server/client.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/plugin/notes-server/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/plugin/notes-server/notes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/plugin/notes/notes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/plugin/notes/notes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/plugin/print-pdf/print-pdf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/plugin/search/search.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/amqpstreaming/lightning/plugin/zoom-js/zoom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/blockchain/graph.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ceph-source-example/ceph-example.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/architecture.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/Gruntfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/print/paper.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/print/pdf.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/reveal.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/reveal.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/beige.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/black.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/blood.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/league.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/moon.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/night.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/serif.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/simple.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/sky.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/solarized.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/source/beige.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/source/black.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/source/blood.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/source/league.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/source/moon.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/source/night.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/source/serif.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/source/simple.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/source/sky.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/source/solarized.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/source/white.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/template/mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/template/settings.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/template/theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/css/theme/white.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/js/reveal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/css/zenburn.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/font/league-gothic/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/font/league-gothic/league-gothic.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/font/league-gothic/league-gothic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/font/league-gothic/league-gothic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/font/league-gothic/league-gothic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/font/source-sans-pro/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/font/source-sans-pro/source-sans-pro-italic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/font/source-sans-pro/source-sans-pro-italic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/font/source-sans-pro/source-sans-pro-italic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/font/source-sans-pro/source-sans-pro-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/font/source-sans-pro/source-sans-pro-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/font/source-sans-pro/source-sans-pro-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/font/source-sans-pro/source-sans-pro.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/js/classList.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/js/head.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/lib/js/html5shiv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/plugin/highlight/highlight.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/plugin/markdown/example.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/plugin/markdown/example.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/plugin/markdown/markdown.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/plugin/markdown/marked.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/plugin/math/math.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/plugin/multiplex/client.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/plugin/multiplex/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/plugin/multiplex/master.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/plugin/multiplex/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/plugin/notes-server/client.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/plugin/notes-server/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/plugin/notes-server/notes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/plugin/notes/notes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/plugin/notes/notes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/plugin/print-pdf/print-pdf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/plugin/search/search.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/lightning/plugin/zoom-js/zoom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fabric8-maven-plugin/screenshot.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/Gruntfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/print/paper.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/print/pdf.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/reveal.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/reveal.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/beige.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/black.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/blood.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/league.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/moon.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/night.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/serif.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/simple.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/sky.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/solarized.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/source/beige.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/source/black.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/source/blood.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/source/league.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/source/moon.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/source/night.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/source/serif.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/source/simple.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/source/sky.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/source/solarized.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/source/white.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/template/mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/template/settings.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/template/theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/css/theme/white.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/js/reveal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/css/zenburn.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/font/league-gothic/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/font/league-gothic/league-gothic.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/font/league-gothic/league-gothic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/font/league-gothic/league-gothic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/font/league-gothic/league-gothic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/font/source-sans-pro/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-italic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-italic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-italic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/font/source-sans-pro/source-sans-pro.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/js/classList.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/js/head.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/lib/js/html5shiv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/plugin/highlight/highlight.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/plugin/markdown/example.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/plugin/markdown/example.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/plugin/markdown/markdown.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/plugin/markdown/marked.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/plugin/math/math.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/plugin/multiplex/client.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/plugin/multiplex/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/plugin/multiplex/master.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/plugin/multiplex/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/plugin/notes-server/client.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/plugin/notes-server/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/plugin/notes-server/notes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/plugin/notes/notes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/plugin/notes/notes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/plugin/print-pdf/print-pdf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/plugin/search/search.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grafzahl/lightning/plugin/zoom-js/zoom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/insightful_apps_workshop/insightful_apps_with_apache_spark_and_openshift_workshop.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/Gruntfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/print/paper.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/print/pdf.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/reveal.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/reveal.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/beige.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/black.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/blood.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/league.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/moon.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/night.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/serif.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/simple.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/sky.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/solarized.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/source/beige.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/source/black.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/source/blood.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/source/league.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/source/moon.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/source/night.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/source/serif.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/source/simple.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/source/sky.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/source/solarized.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/source/white.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/template/mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/template/settings.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/template/theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/css/theme/white.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/js/reveal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/css/zenburn.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/font/league-gothic/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/font/league-gothic/league-gothic.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/font/league-gothic/league-gothic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/font/league-gothic/league-gothic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/font/league-gothic/league-gothic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/font/source-sans-pro/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-italic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-italic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-italic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/font/source-sans-pro/source-sans-pro.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/js/classList.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/js/head.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/lib/js/html5shiv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/plugin/highlight/highlight.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/plugin/markdown/example.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/plugin/markdown/example.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/plugin/markdown/markdown.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/plugin/markdown/marked.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/plugin/math/math.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/plugin/multiplex/client.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/plugin/multiplex/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/plugin/multiplex/master.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/plugin/multiplex/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/plugin/notes-server/client.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/plugin/notes-server/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/plugin/notes-server/notes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/plugin/notes/notes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/plugin/notes/notes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/plugin/print-pdf/print-pdf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/plugin/search/search.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/jgrafzahl/lightning/plugin/zoom-js/zoom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/my-first-radanalytics-app/sparkpi-architecture.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/my-first-radanalytics-app/sparkpi-java-spring.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/my-first-radanalytics-app/sparkpi-python-flask.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/addtoproject.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/architecture.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/brand-ophicleide.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/launch.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/Gruntfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/print/paper.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/print/pdf.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/reveal.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/reveal.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/beige.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/black.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/blood.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/league.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/moon.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/night.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/serif.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/simple.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/sky.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/solarized.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/source/beige.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/source/black.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/source/blood.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/source/league.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/source/moon.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/source/night.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/source/serif.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/source/simple.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/source/sky.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/source/solarized.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/source/white.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/template/mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/template/settings.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/template/theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/css/theme/white.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/js/reveal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/css/zenburn.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/font/league-gothic/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/font/league-gothic/league-gothic.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/font/league-gothic/league-gothic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/font/league-gothic/league-gothic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/font/league-gothic/league-gothic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/font/source-sans-pro/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/font/source-sans-pro/source-sans-pro-italic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/font/source-sans-pro/source-sans-pro-italic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/font/source-sans-pro/source-sans-pro-italic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/font/source-sans-pro/source-sans-pro-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/font/source-sans-pro/source-sans-pro-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/font/source-sans-pro/source-sans-pro-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/font/source-sans-pro/source-sans-pro.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/js/classList.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/js/head.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/lib/js/html5shiv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/plugin/highlight/highlight.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/plugin/markdown/example.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/plugin/markdown/example.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/plugin/markdown/markdown.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/plugin/markdown/marked.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/plugin/math/math.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/plugin/multiplex/client.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/plugin/multiplex/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/plugin/multiplex/master.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/plugin/multiplex/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/plugin/notes-server/client.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/plugin/notes-server/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/plugin/notes-server/notes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/plugin/notes/notes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/plugin/notes/notes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/plugin/print-pdf/print-pdf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/plugin/search/search.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/lightning/plugin/zoom-js/zoom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/logos1.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/logs.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/ophicleide-setup-list.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/route.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/usage1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/usage2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/usage3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/usage4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/ophicleide/usage5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/PySpark_HDFS.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/console.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/jupyter.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/Gruntfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/print/paper.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/print/pdf.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/reveal.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/reveal.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/beige.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/black.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/blood.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/league.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/moon.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/night.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/serif.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/simple.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/sky.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/solarized.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/source/beige.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/source/black.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/source/blood.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/source/league.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/source/moon.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/source/night.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/source/serif.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/source/simple.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/source/sky.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/source/solarized.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/source/white.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/template/mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/template/settings.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/template/theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/css/theme/white.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/js/reveal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/css/zenburn.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/font/league-gothic/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/font/league-gothic/league-gothic.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/font/league-gothic/league-gothic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/font/league-gothic/league-gothic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/font/league-gothic/league-gothic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/font/source-sans-pro/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/font/source-sans-pro/source-sans-pro-italic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/font/source-sans-pro/source-sans-pro-italic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/font/source-sans-pro/source-sans-pro-italic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/font/source-sans-pro/source-sans-pro-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/font/source-sans-pro/source-sans-pro-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/font/source-sans-pro/source-sans-pro-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/font/source-sans-pro/source-sans-pro.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/js/classList.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/js/head.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/lib/js/html5shiv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/plugin/highlight/highlight.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/plugin/markdown/example.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/plugin/markdown/example.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/plugin/markdown/markdown.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/plugin/markdown/marked.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/plugin/math/math.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/plugin/multiplex/client.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/plugin/multiplex/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/plugin/multiplex/master.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/plugin/multiplex/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/plugin/notes-server/client.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/plugin/notes-server/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/plugin/notes-server/notes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/plugin/notes/notes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/plugin/notes/notes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/plugin/print-pdf/print-pdf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/plugin/search/search.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/pyspark_hdfs_notebook/lightning/plugin/zoom-js/zoom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/console.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/jupyter.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/Gruntfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/print/paper.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/print/pdf.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/reveal.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/reveal.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/beige.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/black.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/blood.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/league.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/moon.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/night.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/serif.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/simple.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/sky.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/solarized.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/source/beige.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/source/black.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/source/blood.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/source/league.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/source/moon.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/source/night.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/source/serif.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/source/simple.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/source/sky.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/source/solarized.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/source/white.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/template/mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/template/settings.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/template/theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/css/theme/white.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/js/reveal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/css/zenburn.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/font/league-gothic/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/font/league-gothic/league-gothic.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/font/league-gothic/league-gothic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/font/league-gothic/league-gothic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/font/league-gothic/league-gothic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/font/source-sans-pro/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/font/source-sans-pro/source-sans-pro-italic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/font/source-sans-pro/source-sans-pro-italic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/font/source-sans-pro/source-sans-pro-italic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/font/source-sans-pro/source-sans-pro-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/font/source-sans-pro/source-sans-pro-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/font/source-sans-pro/source-sans-pro-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/font/source-sans-pro/source-sans-pro.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/js/classList.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/js/head.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/lib/js/html5shiv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/plugin/highlight/highlight.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/plugin/markdown/example.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/plugin/markdown/example.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/plugin/markdown/markdown.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/plugin/markdown/marked.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/plugin/math/math.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/plugin/multiplex/client.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/plugin/multiplex/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/plugin/multiplex/master.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/plugin/multiplex/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/plugin/notes-server/client.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/plugin/notes-server/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/plugin/notes-server/notes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/plugin/notes/notes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/plugin/notes/notes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/plugin/print-pdf/print-pdf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/plugin/search/search.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/lightning/plugin/zoom-js/zoom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/s3-source-example/s3-source-example.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/tensorflow/mnist.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/fit.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/Gruntfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/print/paper.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/print/pdf.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/reveal.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/reveal.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/beige.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/black.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/blood.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/league.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/moon.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/night.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/serif.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/simple.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/sky.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/solarized.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/source/beige.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/source/black.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/source/blood.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/source/league.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/source/moon.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/source/night.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/source/serif.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/source/simple.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/source/sky.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/source/solarized.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/source/white.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/template/mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/template/settings.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/template/theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/css/theme/white.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/js/reveal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/css/zenburn.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/font/league-gothic/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/font/league-gothic/league-gothic.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/font/league-gothic/league-gothic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/font/league-gothic/league-gothic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/font/league-gothic/league-gothic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/font/source-sans-pro/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/font/source-sans-pro/source-sans-pro-italic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/font/source-sans-pro/source-sans-pro-italic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/font/source-sans-pro/source-sans-pro-italic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/font/source-sans-pro/source-sans-pro-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/font/source-sans-pro/source-sans-pro-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/font/source-sans-pro/source-sans-pro-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/font/source-sans-pro/source-sans-pro-semibold.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/font/source-sans-pro/source-sans-pro-semibolditalic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/font/source-sans-pro/source-sans-pro.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/js/classList.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/js/head.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/lib/js/html5shiv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/plugin/highlight/highlight.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/plugin/markdown/example.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/plugin/markdown/example.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/plugin/markdown/markdown.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/plugin/markdown/marked.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/plugin/math/math.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/plugin/multiplex/client.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/plugin/multiplex/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/plugin/multiplex/master.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/plugin/multiplex/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/plugin/notes-server/client.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/plugin/notes-server/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/plugin/notes-server/notes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/plugin/notes/notes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/plugin/notes/notes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/plugin/print-pdf/print-pdf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/plugin/search/search.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/lightning/plugin/zoom-js/zoom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/value-at-risk.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/var/walks.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/community.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/radanalytics.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/deploy.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/faq.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-Bold-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-Bold-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-Bold-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-Bold-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-BoldItalic-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-BoldItalic-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-BoldItalic-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-BoldItalic-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-ExtraBold-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-ExtraBold-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-ExtraBold-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-ExtraBold-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-ExtraBoldItalic-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-ExtraBoldItalic-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-ExtraBoldItalic-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-ExtraBoldItalic-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-Italic-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-Italic-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-Italic-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-Italic-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-Light-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-Light-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-Light-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-Light-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-LightItalic-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-LightItalic-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-LightItalic-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-LightItalic-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-Regular-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-Regular-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-Regular-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-Regular-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-Semibold-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-Semibold-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-Semibold-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-Semibold-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-SemiboldItalic-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-SemiboldItalic-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-SemiboldItalic-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/OpenSans-SemiboldItalic-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/PatternFlyIcons-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/PatternFlyIcons-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/PatternFlyIcons-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/PatternFlyIcons-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/get-started.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/102134-yocto-project-logo.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/PNG/analitycs.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/PNG/bigdata.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/PNG/cloud-01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/PNG/cloud-02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/PNG/comodoo-logo-2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/PNG/comodoo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/PNG/dcos.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/PNG/odoo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/PNG/pos.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/PNG/resinos.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/PNG/yocto.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/Site Pages/Comodoo Main Page.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/analitycs.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/bigdata.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/cloud-02.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/cloud-network.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/comodoo.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/dcos.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/network-connector.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/odoo_logo_plain.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/pos-001.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/pos-002.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/resinOS.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/my-first-radanalytics-app.adoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/openshift/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/openshift/resources-2017-4-0.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/openshift/resources-2017-6-0.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/openshift/resources-v0.3.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/openshift/resources-v0.4.0.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/projects.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tutorials.md" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/404.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-08-welcome-to-jekyll.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change beforePath="$PROJECT_DIR$/about.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.md" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deploy.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deploy.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="75" lean-forward="false" selection-start-line="2" selection-start-column="75" selection-end-line="2" selection-end-column="75" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="40" column="53" lean-forward="false" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_site/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="37" column="36" lean-forward="false" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>brand</find>
+      <find>img</find>
+      <find>comodoo-logo</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/deploy.sh" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_site/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="228" />
+    <option name="y" value="218" />
+    <option name="width" value="1281" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="comodoo.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comodoo.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d7b0ce6-9285-48e9-94e0-c777e51ddf76" name="Default" comment="" />
+      <created>1515587515752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515587515752</updated>
+      <workItem from="1515587518148" duration="1503000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1503000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="75" lean-forward="false" selection-start-line="2" selection-start-column="75" selection-end-line="2" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/eonasdan-bootstrap-datetimepicker/docs/theme/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="67" lean-forward="false" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="40" column="53" lean-forward="false" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="37" column="36" lean-forward="false" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

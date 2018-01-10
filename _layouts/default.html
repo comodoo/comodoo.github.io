@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <head>
+    {% include analytics.html %}
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{{ page.title | default: "radanalytics.io developers" }}</title>
+
+    <!-- PatternFly -->
+    <link rel="stylesheet" href="/bower_components/patternfly/dist/css/patternfly.min.css">
+    <link rel="stylesheet" href="/bower_components/patternfly/dist/css/patternfly-additions.min.css">
+
+    <link rel="stylesheet" href="/css/radanalytics.css">
+  </head>
+  <body>
+
+    <nav class="navbar navbar-default navbar-pf" role="navigation">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/">
+            <img id="brand" src="img/comodoo/PNG/comodoo-logo-2.jpg" alt="radanalytics logo">
+          </a>
+          <h1 style="line-height:30px; vertical-align:middle; margin-left: 20%">Comodoo Project</h1>
+        </div>
+        <div class="collapse navbar-collapse navbar-collapse-1">
+          <!--<ul class="nav navbar-nav navbar-utility hidden-xs">
+            <li>
+              <a href="https://github.com/radanalyticsio/radanalyticsio.github.io" target="blank">Edit me on GitHub</a>
+            </li>
+          </ul>-->
+          <ul class="nav navbar-nav navbar-primary">
+            {% include {{ page.menu_template }} %}
+          </ul>
+        </div>
+    </nav>
+
+    {{ content }}
+
+    <!-- pad out the bottom -->
+    <div style="padding-bottom: 4em;"></div>
+
+    <!-- jQuery -->
+    <script src="/bower_components/jquery/dist/jquery.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- PatternFly -->
+    <script src="/bower_components/patternfly/dist/js/patternfly.min.js"></script>
+
+    <!-- Clipboard -->
+    <script src="/bower_components/clipboard/dist/clipboard.min.js"></script>
+    <script type="text/javascript">
+      $(".clipboard-pair").each(function(index) {
+        $($(this).children()[0]).attr('id', 'clipboard-id-' + index);
+        $($(this).children()[1]).attr('data-clipboard-target', '#clipboard-id-' + index);
+      });
+      new Clipboard('.copy-button');
+    </script>
+
+  </body>
+</html>

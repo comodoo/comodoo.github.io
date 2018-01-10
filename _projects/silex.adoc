@@ -1,0 +1,12 @@
+= Silex
+:page-labels: Spark, Extension
+:page-weight: 100
+:page-liquid:
+
+This is a library of reusable code for Spark applications, factored out of
+applications that have been built at Red Hat. It will grow in the future but
+for now it has an application skeleton, some useful extensions to data frames
+and RDDs, utility functions for handling time and stemming text, and helpers
+for feature extraction.
+
+* https://github.com/radanalyticsio/silex[silex] {% include gh_star.html name='silex' %}

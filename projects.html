@@ -1,0 +1,39 @@
+---
+layout: default
+title: Projects
+menu_entry: Projects
+---
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-lg-10 col-lg-offset-1">
+      <h1>Follow Our Progress</h1>
+      <p>
+      These projects represent the core of the radanalytics.io community's efforts.
+      There are several different types of projects represented here, but all are
+      focused on improving your experiences creating insightful data driven
+      applications.
+      </p>
+      <p>
+      We invite you to take a look, test drive everything, and hopefully join us
+      by contributing a comment, issue, or code!
+      </p>
+    </div>
+  </div>
+
+  {% assign sorted_projects = site.projects | sort: 'weight' %}
+  {% for project in sorted_projects %}
+  <div class="row">
+    <div class="col-lg-10 col-lg-offset-1">
+      <h2>
+        {{ project.title }}
+        {% assign split_labels = project.labels | split: ',' %}
+        {% for label in split_labels %}
+        <span class="badge">{{ label }}</span>
+        {% endfor %}
+      </h2>
+      {{ project.content }}
+    </div>
+  </div>
+  {% endfor %}
+</div>
