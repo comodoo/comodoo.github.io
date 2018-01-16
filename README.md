@@ -1,7 +1,17 @@
-# radanalyticsio.github.io
+# Comodoo Site
 
-This repository holds a [jekyll](https://jekyllrb.com) based site for the
-developer facing information about the radanalytics organization.
+Comodoo Site based on [jekyll](https://jekyllrb.com) and based
+on [bower](https://bower.io/).
 
-For more details about contributing or running the site locally please
-consult [CONTRIBUTING.md](./CONTRIBUTING.md).
+gem install jekyll bundler
+bundle install
+bower install
+
+bundle exec jekyll serve 
+ Incremental build: disabled. Enable with --incremental                               
+    Generating...                        
+            done in 1.579 seconds. 
+
+ Server address: http://127.0.0.1:4000
+  Server running... press ctrl-c to stop.
+
